@@ -8,3 +8,4 @@
 ### 05 Dog Water Station <br>
 
 ## Tips: Focus on .FBX, .OBJ, and texture files should be fine.
+## Google Drive Folder Link Here: https://drive.google.com/drive/folders/1gQVFDanC2Vc_HlLhvrAlHCN0RTGJctHo?usp=sharing
