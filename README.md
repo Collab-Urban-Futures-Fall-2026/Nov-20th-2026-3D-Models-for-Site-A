@@ -6,3 +6,5 @@
 ### 03 Rolling Mounts <br>
 ### 04 Sunshade Seats <br>
 ### 05 Dog Water Station <br>
+
+## Tips: Focus on .FBX, .OBJ, and texture files should be fine.
